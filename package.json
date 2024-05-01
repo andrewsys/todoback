@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index 'mongodb+srv://andrew158648:as158648@cluster0.zgreroi.mongodb.net/tarefasDB?retryWrites=true&w=majority&appName=Cluster0'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
